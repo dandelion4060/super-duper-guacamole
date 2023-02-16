@@ -1,0 +1,36 @@
+.header{
+    background-color: black;
+    color: white;
+        padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+.lista{
+    font-size: 20px;
+    list-style-type: none;
+    column-gap:20px; 
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
